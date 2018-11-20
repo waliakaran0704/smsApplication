@@ -1,0 +1,17 @@
+D:\C#-Project\SMS\SMS\bin\Debug\SMS.exe.config
+D:\C#-Project\SMS\SMS\bin\Debug\SMS.exe
+D:\C#-Project\SMS\SMS\bin\Debug\SMS.pdb
+D:\C#-Project\SMS\SMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\C#-Project\SMS\SMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\C#-Project\SMS\SMS\bin\Debug\Newtonsoft.Json.dll
+D:\C#-Project\SMS\SMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\C#-Project\SMS\SMS\bin\Debug\Twilio.dll
+D:\C#-Project\SMS\SMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\C#-Project\SMS\SMS\bin\Debug\Newtonsoft.Json.xml
+D:\C#-Project\SMS\SMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\C#-Project\SMS\SMS\bin\Debug\Twilio.xml
+D:\C#-Project\SMS\SMS\obj\Debug\SMS.csprojAssemblyReference.cache
+D:\C#-Project\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\C#-Project\SMS\SMS\obj\Debug\SMS.csproj.CopyComplete
+D:\C#-Project\SMS\SMS\obj\Debug\SMS.exe
+D:\C#-Project\SMS\SMS\obj\Debug\SMS.pdb
